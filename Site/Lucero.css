@@ -1112,7 +1112,7 @@
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
-  margin: 13px 26px 0 auto;
+  margin: 13px 30px 0 auto;
 }
 
 .u-section-5 .u-list-1 {
@@ -1152,7 +1152,7 @@
 
 .u-section-5 .u-text-2 {
   font-size: 1.875rem;
-  box-shadow: 0px 0px 0px  rgba(0,0,0,0);
+  box-shadow: 0px 0px 0px rgba(0,0,0,0);
   text-shadow: 0px 0px 0px rgba(0,0,0,0);
   text-transform: uppercase;
   font-weight: 500;
@@ -1331,7 +1331,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  margin: -298px auto 60px 30px;
+  margin: -298px auto 60px 31px;
 }
 
 @media (max-width: 1199px) {
@@ -1533,7 +1533,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  margin: -35px 198px 60px auto;
+  margin: -35px 189px 60px auto;
 }
 
 @media (max-width: 1199px) {
